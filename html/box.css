@@ -1,0 +1,47 @@
+.box1
+{
+    height:100px;
+    width: 100px;
+    align-content: center;
+    text-align: center;
+    background:linear-gradient(violet,pink);
+    border:3px dashed;
+    border-radius: 50px;
+}
+.box2
+{
+    height:100px;
+    width:100px;
+    align-content: center;
+    text-align: center;
+    background:linear-gradient(violet,pink);
+    border: 3px dashed;
+    border-radius: 10px;
+    
+}
+
+.box3
+{
+    height:100px;
+    width:100px;
+    align-content: center;
+    text-align: center;
+    background: linear-gradient(violet,pink);
+    border: 3px dashed;
+    border-radius: 10px;
+    transform: translateX(1000px);
+    transform: translateY(100px);
+    transform: translate(100px,1000px);
+
+    transform: scaleX(1.6);
+    transform: scaleY(1.8);
+    transform: scale(1.8);
+
+    transform: rotateX(300deg);
+    transform: rotateY(45deg);
+    transform: rotate(45deg);
+
+    transform: skewX(50deg);
+    transform: skewY(50deg);
+    transform: skew(45deg);
+}

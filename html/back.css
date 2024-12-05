@@ -1,0 +1,10 @@
+body{
+    background-image: url('https://cdn.britannica.com/38/227038-050-4FBE131C/Coloful-tulip-flowers.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.divee
+{
+    background-color: violet;
+    font-size: large;
+}
